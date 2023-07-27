@@ -1,0 +1,17 @@
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\bin\Debug\net7.0\miniShop.Application.deps.json
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\bin\Debug\net7.0\miniShop.Application.dll
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\bin\Debug\net7.0\miniShop.Application.pdb
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\bin\Debug\net7.0\miniShop.Entities.dll
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\bin\Debug\net7.0\miniShop.Infrastructure.dll
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\bin\Debug\net7.0\miniShop.Infrastructure.pdb
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\bin\Debug\net7.0\miniShop.Entities.pdb
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\obj\Debug\net7.0\miniShop.Application.csproj.AssemblyReference.cache
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\obj\Debug\net7.0\miniShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\obj\Debug\net7.0\miniShop.Application.AssemblyInfoInputs.cache
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\obj\Debug\net7.0\miniShop.Application.AssemblyInfo.cs
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\obj\Debug\net7.0\miniShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\obj\Debug\net7.0\miniShop.Application.csproj.CopyComplete
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\obj\Debug\net7.0\miniShop.Application.dll
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\obj\Debug\net7.0\refint\miniShop.Application.dll
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\obj\Debug\net7.0\miniShop.Application.pdb
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Application\obj\Debug\net7.0\ref\miniShop.Application.dll

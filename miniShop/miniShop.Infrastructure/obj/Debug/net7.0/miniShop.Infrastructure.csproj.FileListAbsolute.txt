@@ -1,0 +1,17 @@
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\bin\Debug\net7.0\miniShop.Infrastructure.deps.json
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\bin\Debug\net7.0\miniShop.Infrastructure.runtimeconfig.json
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\bin\Debug\net7.0\miniShop.Infrastructure.dll
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\bin\Debug\net7.0\miniShop.Infrastructure.pdb
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\bin\Debug\net7.0\miniShop.Entities.dll
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\bin\Debug\net7.0\miniShop.Entities.pdb
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\obj\Debug\net7.0\miniShop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\obj\Debug\net7.0\miniShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\obj\Debug\net7.0\miniShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\obj\Debug\net7.0\miniShop.Infrastructure.AssemblyInfo.cs
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\obj\Debug\net7.0\miniShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\obj\Debug\net7.0\miniShop.Infrastructure.csproj.CopyComplete
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\obj\Debug\net7.0\miniShop.Infrastructure.dll
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\obj\Debug\net7.0\refint\miniShop.Infrastructure.dll
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\obj\Debug\net7.0\miniShop.Infrastructure.pdb
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\obj\Debug\net7.0\miniShop.Infrastructure.genruntimeconfig.cache
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Infrastructure\obj\Debug\net7.0\ref\miniShop.Infrastructure.dll

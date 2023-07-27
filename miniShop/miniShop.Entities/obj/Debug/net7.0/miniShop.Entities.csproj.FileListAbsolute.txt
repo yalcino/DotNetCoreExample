@@ -1,0 +1,12 @@
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Entities\bin\Debug\net7.0\miniShop.Entities.deps.json
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Entities\bin\Debug\net7.0\miniShop.Entities.dll
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Entities\bin\Debug\net7.0\miniShop.Entities.pdb
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Entities\obj\Debug\net7.0\miniShop.Entities.csproj.AssemblyReference.cache
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Entities\obj\Debug\net7.0\miniShop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Entities\obj\Debug\net7.0\miniShop.Entities.AssemblyInfoInputs.cache
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Entities\obj\Debug\net7.0\miniShop.Entities.AssemblyInfo.cs
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Entities\obj\Debug\net7.0\miniShop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Entities\obj\Debug\net7.0\miniShop.Entities.dll
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Entities\obj\Debug\net7.0\refint\miniShop.Entities.dll
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Entities\obj\Debug\net7.0\miniShop.Entities.pdb
+C:\Users\yozkan\Desktop\NetCoreEgitimi\cimtas-dotnet\miniShop\miniShop.Entities\obj\Debug\net7.0\ref\miniShop.Entities.dll
